@@ -6,4 +6,4 @@ This exercise is divided in 3 parts:
 
 2. Gaussian Mixture Models hyperparameter tunning (covariance type and number of components) of multivariate data (diabetes.csv). I use K-fold Cross-Validation approach to calculate the maximum log-likelihood and therefore select the best model.
 
-3. Same case as in example 1, this time I use K-fold Cross-Validation approach to tune the **Bandwidth hyperparameter of the Epanechnikov kernel**.
+3. Same case as in point 1, this time I use K-fold Cross-Validation approach to tune the **Bandwidth hyperparameter of the Epanechnikov kernel**.
